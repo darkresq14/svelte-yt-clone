@@ -3,10 +3,10 @@
 </script>
 
 <header
-	class="sticky left-0 top-0 z-10 flex h-[64px] items-center justify-between bg-white px-4 py-2"
+	class="sticky left-0 top-0 z-10 flex h-[64px] items-center justify-between border bg-white px-4 py-2"
 >
-	<a href="/">
-		<img src="/icons/ytLogo.svg" class="mr-5 md:hidden" alt="Logo" />
+	<a href="/" class="mr-5 md:hidden">
+		<img src="/icons/ytLogo.svg" alt="Logo" />
 	</a>
 	<div class="hidden items-center gap-4 md:flex">
 		<img
